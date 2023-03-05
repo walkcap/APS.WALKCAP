@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center" style="margin: 30px 0 30px; font-weight: bold;">
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">
 	APS.WALKCAP®高级计划与排程软件需求规格书 <br>
 </h1>
 
