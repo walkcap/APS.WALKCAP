@@ -23,9 +23,8 @@ APS.WALKCAP® 采用面向SaaS多租户的微服务架构，多端多用户协�
 文件版本：V0.0.3（内部版本号：Ver. 2023030502）<br>
 本文档目：系统地阐述APS.WALKCAP®高级计划与排程（Advanced Planning and Scheduling，APS）的软件需求，作为后续APS.WALKCAP®概要设计、软件需求确认测试的依据。<br>
 
-## 系统发布
+## 产品发布
 预计2023年6月发布可在线体验的V0.1版本。
-
 
 <P>
 <p align="center">
