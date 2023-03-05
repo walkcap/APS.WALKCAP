@@ -1,15 +1,7 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">
-	APS.WALKCAP®高级计划与排程软件需求规格书 <br>
+	APS.WALKCAP®高级计划与排程<br>
 </h1>
-
-项目名称：APS.WALKCAP®高级计划与排程<br>
-文件编号：WALKCAP-APS-SRS-01-01<br>
-文件版本：V0.0.3（内部版本号：Ver. 2023030502）<br>
-
-
-## 文档目的
-本文档目的是系统地阐述APS.WALKCAP®高级计划与排程（Advanced Planning and Scheduling，APS）的软件需求，作为后续APS.WALKCAP®概要设计、软件需求确认测试的依据。
 
 ## 产品定义
 针对按订单制造型（MTO）、按订单装配型（ATO）以及存货型（MTS）的机群式布置、多品种小批量、能力波动范围大、约束多变数多的离散型制造业企业制定生产作业计划而研发的一款高级计划与排程（Advanced Planning and Scheduling, APS）软件APS.WALKCAP®。<P>
@@ -23,6 +15,17 @@ APS.WALKCAP® 基于响应式工厂模型、分布式调度引擎以及交互式
 <p>
 APS.WALKCAP® 采用面向SaaS多租户的微服务架构，多端多用户协同配置、工单分派、实绩报工等操作，可与主流ERP、MES、WMS、PLM对接，支持公有云和私有云部署。
 <p>
+
+## 文档发布
+<li>《APS.WALKCAP®高级计划与排程软件需求规格书》</li>
+<p>
+文件编号：WALKCAP-APS-SRS-01-01<br>
+文件版本：V0.0.3（内部版本号：Ver. 2023030502）<br>
+本文档目：系统地阐述APS.WALKCAP®高级计划与排程（Advanced Planning and Scheduling，APS）的软件需求，作为后续APS.WALKCAP®概要设计、软件需求确认测试的依据。<br>
+
+## 系统发布
+预计2023年6月发布可在线体验的V0.1版本。
+
 
 <P>
 <p align="center">
