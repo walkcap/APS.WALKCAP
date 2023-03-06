@@ -20,7 +20,7 @@ APS.WALKCAP® 采用面向SaaS多租户的微服务架构，多端多用户协�
 <li>《APS.WALKCAP®高级计划与排程软件需求规格书》</li>
 <p>
 文件编号：WALKCAP-APS-SRS-01-01<br>
-文件版本：V0.0.4（内部版本号：Ver. 2023030503）<br>
+文件版本：V0.0.5（内部版本号：Ver. 2023030601）<br>
 本文档目：系统地阐述APS.WALKCAP®高级计划与排程（Advanced Planning and Scheduling，APS）的软件需求，作为后续APS.WALKCAP®概要设计、软件需求确认测试的依据。<br>
 
 ## 产品发布
