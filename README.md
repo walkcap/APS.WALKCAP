@@ -15,12 +15,15 @@ APS.WALKCAP® 基于响应式工厂模型、分布式调度引擎以及交互式
 <p>
 APS.WALKCAP® 采用面向SaaS多租户的微服务架构，多端多用户协同配置、工单分派、实绩报工等操作，可与主流ERP、MES、WMS、PLM对接，支持公有云和私有云部署。
 <p>
+<p>
+产品分为标准版APS.WALKCAP®和企业版APS.WALKCAP®  PRO两个版本。企业版APS.WALKCAP® PRO在标准版的基础上提供独立部署、二次开发等增值服务功能。
+<p>
 
 ## 文档发布
 <li>《APS.WALKCAP®高级计划与排程软件需求规格书》</li>
 <p>
 文件编号：WALKCAP-APS-SRS-01-01<br>
-文件版本：V0.0.6（内部版本号：Ver. 2023030701）<br>
+文件版本：V0.0.7（内部版本号：Ver. 2023030702）<br>
 本文档目：系统地阐述APS.WALKCAP®高级计划与排程（Advanced Planning and Scheduling，APS）的软件需求，作为后续APS.WALKCAP®概要设计、软件需求确认测试的依据。<br>
 
 ## 产品发布
