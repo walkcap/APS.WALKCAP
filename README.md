@@ -38,13 +38,11 @@ APS.WALKCAP® 采用面向SaaS多租户的微服务架构，多端多用户协�
 </p>
 
 知乎：版本发布公告<P>
-<a href="https://www.zhihu.com/people/walkcap" target="_blank">https://www.zhihu.com/people/walkcap</a>
+<a href="https://www.zhihu.com/people/walkcap">https://www.zhihu.com/people/walkcap</a>
 
 <P>
 Github：文档维护<P>
-<a href="https://github.com/walkcap/APS.WALKCAP" target="_blank">https://github.com/walkcap/APS.WALKCAP</a>
-
-
+<a href="https://github.com/walkcap/APS.WALKCAP">https://github.com/walkcap/APS.WALKCAP</a>
 
 
 
